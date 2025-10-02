@@ -1,17 +1,3 @@
-C:\Users\PC\source\repos\WarehouseManagement.Core\bin\Debug\net8.0\WarehouseManagement.Core.deps.json
-C:\Users\PC\source\repos\WarehouseManagement.Core\bin\Debug\net8.0\WarehouseManagement.Core.runtimeconfig.json
-C:\Users\PC\source\repos\WarehouseManagement.Core\bin\Debug\net8.0\WarehouseManagement.Core.dll
-C:\Users\PC\source\repos\WarehouseManagement.Core\bin\Debug\net8.0\WarehouseManagement.Core.pdb
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\WarehouseManagement.Core.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\WarehouseManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\WarehouseManagement.Core.AssemblyInfoInputs.cache
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\WarehouseManagement.Core.AssemblyInfo.cs
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\WarehouseManagement.Core.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\WarehouseManagement.Core.dll
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\refint\WarehouseManagement.Core.dll
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\WarehouseManagement.Core.pdb
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\WarehouseManagement.Core.genruntimeconfig.cache
-C:\Users\PC\source\repos\WarehouseManagement.Core\obj\Debug\net8.0\ref\WarehouseManagement.Core.dll
 C:\Users\PC\source\repos\WarehouseManagmentSystem\WarehouseManagement.Core\bin\Debug\net8.0\WarehouseManagement.Core.deps.json
 C:\Users\PC\source\repos\WarehouseManagmentSystem\WarehouseManagement.Core\bin\Debug\net8.0\WarehouseManagement.Core.runtimeconfig.json
 C:\Users\PC\source\repos\WarehouseManagmentSystem\WarehouseManagement.Core\bin\Debug\net8.0\WarehouseManagement.Core.dll
