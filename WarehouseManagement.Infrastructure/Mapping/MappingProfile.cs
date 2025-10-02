@@ -29,6 +29,10 @@ namespace WarehouseManagement.Infrastructure.Mapping
             CreateMap<CreateCategoryDto, Category>();
             CreateMap<UpdateCategoryDto, Category>();
             CreateMap<Category, CategoryWithProductsDto>();
+            CreateMap<Category, CategoryDto>().ReverseMap();
+            CreateMap<Category, CategoryDto>().ReverseMap();
+            CreateMap<Category, CreateCategoryDto>().ReverseMap();
+            CreateMap<Category, UpdateCategoryDto>().ReverseMap();
 
             // Supplier Mappings
             CreateMap<Supplier, SupplierDto>();
